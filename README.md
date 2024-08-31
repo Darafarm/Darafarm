@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Darafarm
-- 👀 I’m interested in Artificial intelligence 
-- 🌱 I’m currently learning Machine learning/ Deep learning 
-- 💞️ I’m looking to collaborate on Deep learning projects 
-- 📫 How to reach me daramolajames1859@gmail.com
+👋 Hi, I’m @Darafarm
+👀 Interests
+I’m passionate about Artificial Intelligence and am particularly focused on Deep Learning, Machine Learning and Computer Vision.
+
+🌱 Current Learning
+I am currently deepening my knowledge in =Deep Learning and Computer Vision.
+
+💞️ Collaboration
+I’m looking to collaborate on exciting Deep Learning research projects. If you have a project or idea in this field, let’s connect!
+
+📫 Contact
+You can reach me at daramolajames1859@gmail.com.
 
 <!---
 Darafarm/Darafarm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
